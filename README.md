@@ -1,5 +1,7 @@
 # react-topi - boilerplate code for react projects.
 
+Special thanks to @Dallas-Ng for coming up with the folder structure. I liked how he structured his file so I decided to make a boilerplate from it.
+
 ## How to run the project
 
 ```sh
