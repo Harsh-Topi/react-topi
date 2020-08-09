@@ -1,0 +1,26 @@
+/* THIS FILE SHOULD NOT BE CHANGED UNLESS DECLARED AS IT SETS THE STRUCTURE OF THE LAYOUT*/
+html,
+body {
+	height: 100%;
+}
+
+.MAIN_BODY {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.MAIN_CONTENT {
+	flex: 1 0 auto;
+}
+.MAIN_FOOTER {
+	flex-shrink: 0;
+}
+
+.ant-form-vertical .ant-form-item-label {
+	padding: 0 0 5px;
+}
+
+.ant-form-vertical .ant-form-item-label > label {
+	height: 14px;
+}
