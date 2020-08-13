@@ -1,6 +1,6 @@
 # react-topi - boilerplate code for react projects.
 
-Special thanks to @Dallas-Ng for coming up with the folder structure. I liked how he structured his file so I decided to make a boilerplate from it.
+Special thanks to @Dallas-Ng for coming up with the folder structure. I really liked how he structured his React projects, so I decided to make a boilerplate for myself.
 
 ## How to run the project
 
